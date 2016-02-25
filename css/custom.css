@@ -11,3 +11,8 @@ h1 {
 h1 small{
   font size: 13px;
 }
+
+
+box {
+  border-style: solid;
+}
