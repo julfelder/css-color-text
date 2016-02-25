@@ -8,14 +8,14 @@ h1 {
   
 }
 
-h1-small{
+small{
   font size: 13px;
 }
 
 
 .box {
   border-style: solid;
-  width: 500px;
+  width: 370px;
   height: initial;
   padding-top: 20px;
   padding-right: 10px;
