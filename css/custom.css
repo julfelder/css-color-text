@@ -4,18 +4,18 @@
 /*insert custom css below*/
 
 h1 {
-  font size: 30px;
+  font-size: 30px;
   
 }
 
 small{
-  font size: 13px;
+  font-size: 13px;
 }
 
 
 .box {
   border-style: solid;
-  width: 370px;
+  width: 380px;
   height: initial;
   padding-top: 20px;
   padding-right: 10px;
