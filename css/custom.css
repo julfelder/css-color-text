@@ -13,6 +13,13 @@ h1 small{
 }
 
 
-box {
+.box {
   border-style: solid;
+  width: 500px;
+  height: 700px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 }
