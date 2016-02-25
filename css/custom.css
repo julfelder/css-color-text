@@ -5,6 +5,7 @@
 
 h1 {
   font-size: 30px;
+  margin-left: 20px;
   
 }
 
@@ -22,5 +23,6 @@ small{
   padding-bottom: 20px;
   padding-left: 10px;
   margin-bottom: 10px;
+  margin-left: 20px;
 }
 }
