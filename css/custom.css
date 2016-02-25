@@ -4,22 +4,22 @@
 /*insert custom css below*/
 
 h1 {
-  font size: 30px;
+  font size: 50px;
   
 }
 
 h1 small{
-  font size: 13px;
+  font size: 8px;
 }
 
 
 .box {
   border-style: solid;
   width: 500px;
-  height: 700px;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+  height: initial;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 10px;
 }
 }
